@@ -1,6 +1,6 @@
-# babysitter-web
+# babysitter-api
 
 ## Project Setup
 
 
-# babysitter-web
+# babysitter-api
